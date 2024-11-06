@@ -5,6 +5,13 @@
   height: 300px;
 }
 
+/* Centering by Flex */
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .box {
   background: palevioletred;
   font-weight: bold;
@@ -13,3 +20,5 @@
   width: 80px;
   height: 80px;
 }
+
+
