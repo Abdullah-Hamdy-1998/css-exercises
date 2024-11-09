@@ -12,6 +12,23 @@ img {
   font-weight: 900;
 }
 
+/* Solution */
+
+body{
+  text-align: center;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 30px;
+}
+
+.plant {
+  max-width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
